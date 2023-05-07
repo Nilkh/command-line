@@ -140,13 +140,14 @@ Create the following directories as well. They should be subdirectories of sei.
 * studies
 
 Verify that your directory structure resembles the following:
-
+```sh
 ~/sei
 ├── challenges
 ├── projects
 ├── studies
 ├── tmp
 └── trainings
+```
 Now that we have our `web-dev` directory setup, use the `mv` command to move some files into it.
 
 Find where the `command-line` and `local-setup` directories are stored (may be in the Desktop directory). Then move those directories into the `trainings` directory.
