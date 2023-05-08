@@ -141,7 +141,7 @@ Create the following directories as well. They should be subdirectories of `web-
 
 Verify that your directory structure resembles the following:
 ```sh
-~/sei
+~/web-dev
 ├── challenges
 ├── projects
 ├── studies
