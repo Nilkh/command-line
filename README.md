@@ -131,9 +131,9 @@ Now that we're back in the home directory, let's create a place to store all the
 Before issuing the command in the terminal, bring your explorer window into focus, the one with the home directory open. Resize and position it so that it is visible along with the terminal. Now, in the terminal `cd` into your `Home` directory.
 Use the `mkdir` command to create a new directory called `web-dev`.
 
-Create the following directories as well. They should be subdirectories of sei.
+Create the following directories as well. They should be subdirectories of `web-dev`.
 
-* trainings
+* reviews
 * projects
 * tmp
 * challenges
@@ -145,8 +145,8 @@ Verify that your directory structure resembles the following:
 ├── challenges
 ├── projects
 ├── studies
-├── tmp
-└── trainings
+├── reviews
+└── tmp
 ```
 Now that we have our `web-dev` directory setup, use the `mv` command to move some files into it.
 
