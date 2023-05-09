@@ -180,10 +180,11 @@ See what happened? The file `name.txt` opens in the default application your com
 Let's say that we didn't mean to name the file `name.txt`. How would we go about editing the file name to correct it?
 
 ## Copying a Hidden File
-### Group Activity
+### Bonus Topic: Group Activity
 Hidden files in your file system are denoted by a leading dot (`.`). You can see these files using the command `ls -a`. Create a hidden file named `.env`. Copy this file to a new file named `.newEnv` using the command `cp <original_name> <new_name>`. Check your work by typing `ls -a`.
 
 ## Deleting a File
+### Bonus Topic
 How do we get rid of this file? We'll use the `rm` command. But first, a warning. This is a very dangerous command. Do not press enter after typing `rm` without being absolutely certain you're targeting the right file. There's no way to recover files deleted with `rm`. The same advice applies double to flags like `-r` or other flags. Flags are options that occur after dashes when issuing commands.
 
 To delete a file or directory, use the following command:
