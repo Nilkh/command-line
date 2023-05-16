@@ -141,7 +141,7 @@ Use the `mkdir` command to create a new directory called `web-dev`.
 
 Create the following directories as well. They should be subdirectories of `web-dev`:
 
-- reviews
+- practices
 - projects
 - tmp
 - challenges
@@ -154,7 +154,7 @@ Verify that your directory structure resembles the following:
 ├── challenges
 ├── projects
 ├── studies
-├── reviews
+├── practices
 └── tmp
 ```
 
